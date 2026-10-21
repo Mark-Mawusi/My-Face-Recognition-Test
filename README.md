@@ -1,0 +1,2 @@
+# My-Face-Recognition-Test
+I am a software Engineering student in Level 400. I am taking a course named Ai and Machine Learning. In this course we are being taught to train a model using ultralytics for a face recognition Test. We have been tasked to take a lot of pictures in different positions and with different people  and we will train the model to recognise our face.
